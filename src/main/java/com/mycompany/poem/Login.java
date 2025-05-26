@@ -14,7 +14,7 @@ public class Login {
     private String username;
     private String password;
     private String phoneNumber;
-    private String firstName = "Sedzani"; 
+    private String firstName = "Engedzani"; 
     private String lastName = "Sikhwari"; 
 
     //Checks if the username contains an underscore and is no more than 5 characters long.
